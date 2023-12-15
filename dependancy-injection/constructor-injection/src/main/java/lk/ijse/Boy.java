@@ -14,4 +14,8 @@ public class Boy {
     public void test(){
         agrement.chat();
     }
+
+    public static void main(String[] args) {
+
+    }
 }
